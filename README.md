@@ -1,0 +1,3 @@
+# Embedded-Systems-Project
+An ARM Cortex-MF4 (Tiva™ C Series TM4C123G LaunchPad, Texas Instruments) Project
+A software application that is capable of acting as either a controller or device for a timing intensive asynchronous communication interface based on the DMX512-A protocol with EF1 topology. The PC transmitter will accept commands from a PC via an RS-232 interface and will continuously transmit a serial stream to control up to 512 devices on a RS-485 communication bus. The PC receiver will forward data received from devices on a communications bus and send these to the PC with the RS-232 interface. 
